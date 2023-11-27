@@ -1,1 +1,1 @@
-Um gerador de senhas simples, feito em JS.
+Gerador de senhas, construído com JS.
